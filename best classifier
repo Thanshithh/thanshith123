@@ -1,5 +1,5 @@
 
-#The Beest Clasifier of coursera
+#The Beest Clasifier  of machine learning
 
 import itertools
 import numpy as np
